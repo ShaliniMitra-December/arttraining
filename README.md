@@ -36,7 +36,7 @@ This smart contract allows users to:
 ## 🔗 Deployed Smart Contract Link
 
 **Contract Address:**
-`CACOKYMVIKEDDIUVRKISS5RJXMALSDJUKADS7D6YFCYDIUUYTY5B4RQI`
+`https://stellar.expert/explorer/testnet/contract/CACOKYMVIKEDDIUVRKISS5RJXMALSDJUKADS7D6YFCYDIUUYTY5B4RQI`
 
 You can interact with this contract using the Soroban CLI or integrate it into a frontend dApp.
 
